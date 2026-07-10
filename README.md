@@ -54,10 +54,28 @@ Já publiquei projetos pessoais em produção — de ferramentas com IA a SPAs c
 
 <div align="center">
 
-[![VagaAI](https://github-readme-stats.vercel.app/api/pin/?username=leomoraessantdev&repo=VagaAI&theme=dracula)](https://github.com/leomoraessantdev/VagaAI)
-[![TripWF](https://github-readme-stats.vercel.app/api/pin/?username=leomoraessantdev&repo=tripwf&theme=dracula)](https://github.com/leomoraessantdev/tripwf)
-
-**[▶ VagaAI — demo ao vivo](https://vagaai-demo.vercel.app)** · **[▶ TripWF — demo ao vivo](https://tripwf.vercel.app)**
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/leomoraessantdev/VagaAI">
+        <img src="https://raw.githubusercontent.com/leomoraessantdev/VagaAI/main/docs/vagaai.png" width="100%" alt="VagaAI" />
+      </a>
+      <br />
+      <b>VagaAI</b>
+      <br />
+      <a href="https://vagaai-demo.vercel.app">▶ Demo ao vivo</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/leomoraessantdev/tripwf">
+        <img src="https://raw.githubusercontent.com/leomoraessantdev/tripwf/main/public/images/screenshots/telainicial.png" width="100%" alt="TripWF" />
+      </a>
+      <br />
+      <b>TripWF</b>
+      <br />
+      <a href="https://tripwf.vercel.app">▶ Demo ao vivo</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -67,7 +85,7 @@ Já publiquei projetos pessoais em produção — de ferramentas com IA a SPAs c
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leomoraessantdev&show_icons=true&theme=dracula)
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoraessantdev&layout=compact&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=leomoraessantdev&show_icons=true&theme=tokyonight)
+![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leomoraessantdev&layout=compact&theme=tokyonight)
 
 </div>
